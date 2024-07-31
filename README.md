@@ -18,7 +18,7 @@ This website is fully responsive personal portfolio, <br />Responsive for all de
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://linkedin.com/in/arslan-deshmukh-7788182a7).
+If you want to contact with me you can reach me at [LinkedIn](https://linkedin.com/in/arslan-deshmukh-7788182a7).
 
 ### License
 
