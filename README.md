@@ -4,7 +4,7 @@
   <br />
   <br />
   
- ![Project Logo](images/)
+ ![Project Logo](assets/aar.png)
 
   <h2 align="center">Arbaz - Personal portfolio</h2>
 
